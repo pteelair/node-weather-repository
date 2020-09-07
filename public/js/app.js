@@ -1,9 +1,3 @@
-//const e = require("express");
-
-console.log('client side javascript file loaded!')
-
-
-
 const documentForm = document.querySelector('form')
 const search = document.querySelector('input')
 
